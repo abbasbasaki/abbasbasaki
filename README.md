@@ -11,7 +11,6 @@
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)](https://tailwindcss.com/)
-
 <img width="59" height="35" alt="sass-1 (1)" src="https://github.com/user-attachments/assets/8608a3e0-a634-459d-8460-fbfd7a6139b1" />
 
 #### Back-End & Others
