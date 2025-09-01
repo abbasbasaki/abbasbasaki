@@ -1,7 +1,5 @@
 ## Hi there 👋
 
-<img width="100" height="100" alt="backTranc" src="https://github.com/user-attachments/assets/e24092c9-8f61-4b38-86b9-a4d32903bf26" />
-
 <!-- ====== Technologies & Tools ====== -->
 ### ⚡ Technologies & Tools
 
@@ -13,10 +11,8 @@
 [![React](https://img.shields.io/badge/React-61DAFB?logo=react&logoColor=black&style=flat-square)](https://reactjs.org/)
 [![Next.js](https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white&style=flat-square)](https://nextjs.org/)
 [![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?logo=tailwindcss&logoColor=white&style=flat-square)](https://tailwindcss.com/)
-<img width="35" height="35" alt="boot" src="https://github.com/user-attachments/assets/2f94614f-d149-42c2-b729-8a7418f02f1b" /> 
-<img width="33" height="35" alt="ang" src="https://github.com/user-attachments/assets/1cfbc4a1-1907-4ba0-8be1-86639c7cf432" />
+
 <img width="59" height="35" alt="sass-1 (1)" src="https://github.com/user-attachments/assets/8608a3e0-a634-459d-8460-fbfd7a6139b1" />
-<img width="45" height="35" alt="tailwind2" src="https://github.com/user-attachments/assets/169753cf-8d43-4c3e-a2a4-90b359543c3b" />
 
 #### Back-End & Others
 
